@@ -21,6 +21,8 @@ class Model {
     this.data.push({name:'',status:'TO DO'});
     // console.log(this.data);
     }
+
+
 }
 
 
